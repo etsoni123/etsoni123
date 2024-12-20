@@ -23,7 +23,3 @@ A passionate web developer from DRCongo
 </p>
 
 ---
-
-### 📈 Profile Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=etsoni123show_icons=true&theme=radical)
