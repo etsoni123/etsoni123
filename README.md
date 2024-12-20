@@ -2,7 +2,7 @@
 A passionate web developer from DRCongo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link-here.png" width="250"/>
+  <img src="https:///your-image-link-here.png" width="250"/>
 </p>
 
 ## 🧑‍💻 About Me:
@@ -26,4 +26,4 @@ A passionate web developer from DRCongo
 
 ### 📈 Profile Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baraka24&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=etsoni123show_icons=true&theme=radical)
