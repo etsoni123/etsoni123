@@ -26,4 +26,3 @@ Un développeur web passionné de la République Démocratique du Congo
 
 ---
 
-Cela conserve l'intégrité de votre code **Markdown** tout en traduisant chaque phrase en français. 🚀
