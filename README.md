@@ -1,5 +1,3 @@
-Voici la traduction textuelle de votre contenu en **français** :
-
 ---
 
 # Salut 👋, je suis Etsoni Dieudonné  
